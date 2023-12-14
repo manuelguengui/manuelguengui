@@ -1,5 +1,5 @@
 ### Oi👋! Sou Manuel Guengui
-Sou desenvolvidor Web
+Sou estudante de informática e desenvolvidor Web
 tenho conhecimento com as seguintes tecnológias
 
 <div style="display: inline_block"><br>
@@ -7,6 +7,7 @@ tenho conhecimento com as seguintes tecnológias
   <img align="center" alt="Manuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manuel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Manuel-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
 <hr>
 
