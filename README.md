@@ -44,7 +44,7 @@ tenho conhecimento com as seguintes tecnologias
 <ul>
   <li>Usuário: admin@gmail.com</li>
   <li>palavra-passe: administrador</a></li>
-  <li><a href="https://globalseguros.is-great.org">globalseguros.is-great.org</a></li>
+  <li><a target="_blank" href="https://globalseguros.is-great.org">globalseguros.is-great.org</a></li>
 </ul>
 
 <p>Podes ver outro meus projectos aqui no meu github</p>
