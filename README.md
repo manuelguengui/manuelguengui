@@ -39,7 +39,7 @@ tenho conhecimento com as seguintes tecnologias
   </a> 
   
 </div>
-<p>Desenvolve um sistema de gestação de seguros de incêndio para segurador Global-Seguro. Este Projecto serviu como TCC de um grupo de estudante do colégio jacimira. O projecto tem a pagina administrativa e cliente.  Assim que é cadastrada uma empresa, a empresa recebi um email com as credencias para poder controlar o seu seguro. Tu podes aceder ao sistema clicando no link abaixa com as credencias.</p>
+<p>Desenvolve um sistema de gestão de seguros de incêndio para segurador Global-Seguro. Este Projecto serviu como TCC de um grupo de estudante do colégio jacimira. O projecto tem a pagina administrativa e cliente.  Assim que é cadastrada uma empresa, a empresa recebi um email com as credencias para poder controlar o seu seguro. Tu podes aceder ao sistema clicando no link abaixa com as credencias.</p>
 
 <ul>
   <li>Usuário: admin@gmail.com</li>
