@@ -43,7 +43,7 @@ tenho conhecimento com as seguintes tecnologias
 
 <ul>
   <li>Usuário: admin@gmail.com</li>
-  <li>palavra-passe: administrador</a></li>
+  <li>palavra-passe: admin@gmail.com</a></li>
   <li><a target="_blank" href="https://globalseguros.is-great.org">globalseguros.is-great.org</a></li>
 </ul>
 
